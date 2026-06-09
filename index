@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>My AI Crush - AI Companion App</title>
+  <meta name="description" content="My AI Crush is an AI companion app designed to simulate emotional interaction, chat experience, and personalized AI relationships." />
+  <meta name="robots" content="index, follow" />
+
+  <!-- Open Graph for social sharing -->
+  <meta property="og:title" content="My AI Crush" />
+  <meta property="og:description" content="AI companion app with emotional interaction and personalized chat experience." />
+  <meta property="og:type" content="website" />
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0f0f1a;
+      color: white;
+      text-align: center;
+      padding: 40px;
+    }
+    h1 {
+      font-size: 42px;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 18px;
+      opacity: 0.8;
+    }
+    .container {
+      margin-top: 40px;
+    }
+    a {
+      display: block;
+      margin: 15px auto;
+      padding: 12px 20px;
+      width: 260px;
+      background: #6c5ce7;
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+      font-weight: bold;
+    }
+    a:hover {
+      background: #5a4bd6;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>MY AI CRUSH</h1>
+  <p>Your AI companion for emotional and interactive conversations.</p>
+
+  <div class="container">
+
+    <!-- IMPORTANT FILES FOR GOOGLE / ADMOB -->
+    <a href="/app-ads.txt">App-Ads.txt (AdMob Verification)</a>
+
+    <a href="/privacy-policy.html">Privacy Policy</a>
+
+  </div>
+
+</body>
+</html>
